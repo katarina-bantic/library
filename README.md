@@ -4,3 +4,8 @@ To start the application go to the root of cloned git project and execute follow
 ```
 mvn spring-boot:run
 ```
+
+Then you can access the application on URL address:
+```
+http://localhost:8080
+```
